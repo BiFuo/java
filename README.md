@@ -11,9 +11,8 @@
 ### 安装
 
 ```shell
-git clone https://github.com/cucygh/JDFinance.git
-cd JDFinance
-npm install
+安装依赖：npm i
+运行：npm run start
 ```
 
 ### 切换分支
